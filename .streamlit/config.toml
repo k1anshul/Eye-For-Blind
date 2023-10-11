@@ -1,0 +1,29 @@
+[server]
+
+# Max size, in megabytes, for files uploaded with the file_uploader.
+# Default: 200
+maxUploadSize = 3000
+
+# Max size, in megabytes, of messages that can be sent via the WebSocket connection.
+# Default: 200
+maxMessageSize = 1000
+
+[theme]
+
+# The preset Streamlit theme that your custom theme inherits from. One of "light" or "dark".
+base ="dark"
+
+# Primary accent color for interactive elements.
+primaryColor="#f5f1f1"
+
+# Background color for the main content area.
+backgroundColor="#343541"
+
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor="#61636f"
+
+# Color used for almost all text.
+textColor="#ffffff"
+
+# Font family for all text in the app, except code blocks. One of "sans serif", "serif", or "monospace".
+font ="serif"

@@ -3,4 +3,5 @@ Keras-Preprocessing
 streamlit==1.23.1
 gTTs==2.4.0
 Pillow
+tensorflow
 protobuf==3.20.*

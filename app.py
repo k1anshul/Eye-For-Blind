@@ -4,9 +4,7 @@ import numpy as np
 import os
 from tensorflow.keras.models import Model
 import pickle
-import matplotlib.pyplot as plt
 from gtts import gTTS
-from IPython import display
 from PIL import Image
 
 import warnings
